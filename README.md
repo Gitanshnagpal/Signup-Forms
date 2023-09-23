@@ -6,7 +6,7 @@
 <br />
 <br />
 
-<h2 align="center">Form</h2>
+<h2 align="center">Sign Up Form</h2>
 This Repo Contains the Forms projects made while learning JavaScript. Has Validations, Completely Responsive.
 
 <a href="https://sign-up-fr.onrender.com/"><strong>➥ Live Demo</strong></a>
